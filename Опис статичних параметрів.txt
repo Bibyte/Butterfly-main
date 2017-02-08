@@ -1,0 +1,26 @@
+1. Добавить параметр на проверку отсувствия (yandex, google)
+
+
+2. Добавить параметр на проверку последней страницы
+did not match any documents") 
+|| data.contains("Извините, но Google не выдает более 1000 результатов, а вы запросили результаты с номера 1000
+
+3. Добавить параметр на проверку антиспама
+data.contains("<TITLE>302 Moved</TITLE>"
+
+
+1.  Параметри статичні:
+    QSettings settings("VBI","Butterfly");
+    settings.setValue("keywordArray",ui->fldUrl->toPlainText());
+    settings.setValue("notFirstRun",true);
+
+    settings.setValue("maxSearshCount",ui->maxSearshCount->value());
+    settings.setValue("countryBox",ui->countryBox->currentIndex());
+    settings.setValue("langBox",ui->langBox->currentIndex());
+    settings.setValue("outputFile",ui->outputFile->text());
+    settings.setValue("keyType",ui->rFile->isChecked());
+    settings.setValue("inputKeyFile",ui->inputKeysFile->text());
+
+
+2.  Параметри поисковиків (з поточним)
+3.  Параметри профілів пошуку (з поточним)

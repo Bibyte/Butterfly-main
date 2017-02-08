@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/Main">
+        <file>info.png</file>
+        <file>system-restart.png</file>
+        <file>process-stop.png</file>
+        <file>FindEngineProfile.png</file>
+        <file>FindEngineProfileAdd.png</file>
+        <file>FindEngineProfileDel.png</file>
+        <file>dialog-ok-apply.png</file>
+        <file>Settings.png</file>
+        <file>help.png</file>
+        <file>refresh.png</file>
+        <file>wmploc_DLL_475.png</file>
+        <file>pause.png</file>
+        <file>filter.png</file>
+        <file>FindEngineProfileCopy.png</file>
+        <file>SerachProfileCopy.png</file>
+        <file>save-log.png</file>
+        <file>save-html.png</file>
+        <file>test.gif</file>
+        <file>earth.png</file>
+        <file>applications-system.png</file>
+        <file>folder.png</file>
+        <file>KeyWords.png</file>
+        <file>keyWordsFile.png</file>
+        <file>links.png</file>
+        <file>linksFromfile.png</file>
+        <file>log.png</file>
+        <file>key.png</file>
+        <file>key_error.png</file>
+        <file>Avalaible-ability-small.png</file>
+        <file>Blocked-ability-small.png</file>
+        <file>Denied-ability-small.png</file>
+        <file>load_from_file.png</file>
+        <file>configure.png</file>
+        <file>proxy.png</file>
+        <file>floppy.png</file>
+        <file>goal.png</file>
+        <file>Logo.ico</file>
+        <file>Logo.png</file>
+    </qresource>
+</RCC>
